@@ -1,7 +1,7 @@
 # Java Tetris Game
 
 A custom Tetris game developed in Java between **January 9–19, 2025**.  
-This project recreates classic Tetris gameplay with modern enhancements, such as block holding, previews, scoring, and sound effects.
+This project recreates classic Tetris gameplay
 
 ---
 
