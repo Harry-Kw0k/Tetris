@@ -30,6 +30,9 @@ This project recreates classic Tetris gameplay
   - Full graphical UI for gameplay
   - Sound effects for line clears and block drops
   - Level variable included for future expansion
+  - - **Custom Audio:** To play a different song, place your audio file in the `audio` folder, then update the line in `Audio.java` in the `utils` folder from `"music"` to your file name:  
+  `location = "your_song_name";`
+
 
 ---
 
